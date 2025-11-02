@@ -1,0 +1,5 @@
+Game_name:祁苑、傅宇;
+Game_key:dae7d721abcaa78;
+Title_img:kiss.png;
+Title_bgm:lovesong.mp3;
+Textbox_theme:imss;
