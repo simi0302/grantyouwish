@@ -1,0 +1,6 @@
+intro:序幕：極簡意象與鎖鏈低語 -fontSize=medium -backgroundColor=rgba(255, 255, 255, 1) -fontColor=rgba(5, 0, 0, 1) -animation=fadeIn -delayTime=1500;
+changeBg:S0.png;
+bgm:S0.mp3 -volume=100;
+:「情劫難逃，然，記憶已逝。」;
+:「在現代的校園裡，鎖鏈已響。你身處的，是一座囚牢。」;
+changeBg:S2.png;
