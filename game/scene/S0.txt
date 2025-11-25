@@ -1,6 +1,6 @@
 bgm:lovesong.mp3 -volume=100;
 changeBg:S0.png;
-:「情劫難逃，然，記憶已逝。」;
+:「情劫難逃，然記憶已逝。」;
 :「在現代的校園裡，鎖鏈已響。你身處的，是一座囚牢。」;
 changeBg:S0-1.png;
 changeScene:S1.txt;
